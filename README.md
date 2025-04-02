@@ -1,10 +1,10 @@
-📊 Projeto de ETL e Visualização de Dados
+# 📊 Projeto de ETL e Visualização de Dados
 
-📌 Descrição
+### 📌 Descrição
 
 Este repositório contém um projeto de ETL (Extração, Transformação e Carga de Dados) e visualização de dados, utilizando Python e PostgreSQL. Além disso, inclui uma apresentação em PowerPoint para demonstrar os insights obtidos.
 
-📂 Estrutura do Repositório
+### 📂 Estrutura do Repositório
 
 Case_ETL.ipynb → Notebook responsável pelo processo de ETL, incluindo a extração de dados da API, transformação e carga no banco de dados PostgreSQL.
 
@@ -12,9 +12,9 @@ Case_dataviz.ipynb → Notebook dedicado à análise exploratória e visualizaç
 
 Case Trainee.pptx → Slides explicativos com os principais insights obtidos a partir dos dados.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-📌 Linguagem e Bibliotecas
+### 📌 Linguagem e Bibliotecas
 
 Python 3.13
 
@@ -28,17 +28,17 @@ SQLAlchemy → Conexão com o PostgreSQL.
 
 Matplotlib e Seaborn → Criação de gráficos e visualizações.
 
-🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 
 PostgreSQL 17 → Armazenamento dos dados processados.
 
 pgAdmin 4 → Gerenciamento do banco de dados PostgreSQL.
 
-🖥️ Versionamento de Código
+### 🖥️ Versionamento de Código
 
 GitHub → Hospedagem e controle de versão do projeto.
 
-🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 Clone o repositório:
 
