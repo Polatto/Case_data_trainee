@@ -45,14 +45,9 @@ GitHub → Hospedagem e controle de versão do projeto.
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
 cd nome_do_repositorio
 
-### Crie e ative um ambiente virtual:
-
-python -m venv venv
-source venv/bin/activate  # No Windows, use: venv\Scripts\activate
-
 ### Instale as dependências:
 
-pip install -r requirements.txt
+pip install {nome das bibliotecas}
 
 ### Configure o banco de dados PostgreSQL no ETL.ipynb com suas credenciais.
 
