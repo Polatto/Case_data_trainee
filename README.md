@@ -40,24 +40,24 @@ GitHub → Hospedagem e controle de versão do projeto.
 
 ## 🚀 Como Executar o Projeto
 
-Clone o repositório:
+### Clone o repositório:
 
 git clone https://github.com/seu_usuario/nome_do_repositorio.git
 cd nome_do_repositorio
 
-Crie e ative um ambiente virtual:
+### Crie e ative um ambiente virtual:
 
 python -m venv venv
 source venv/bin/activate  # No Windows, use: venv\Scripts\activate
 
-Instale as dependências:
+### Instale as dependências:
 
 pip install -r requirements.txt
 
-Configure o banco de dados PostgreSQL no ETL.ipynb com suas credenciais.
+### Configure o banco de dados PostgreSQL no ETL.ipynb com suas credenciais.
 
 Execute os notebooks Jupyter na ordem:
 
-Primeiro: ETL.ipynb
+Primeiro: Case_ETL.ipynb
 
-Depois: Visualizacao_Dados.ipynb
+Depois: Case_dataviz.ipynb
